@@ -1,0 +1,3 @@
+#! /bin/bash/
+echo "Sathi babu"
+Name display in : sathibabu
